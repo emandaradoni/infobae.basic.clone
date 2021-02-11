@@ -1,0 +1,13 @@
+DOM = Documento (tu HTML)
+CSS: las clases se declaran con un punto (.color) adelante, los IDs con un hash (#myId) y los tags de HTML con nada (header)
+Flexbox: Es un concepto y grupo de técnicas de CSS para facilitar el posicionamiento de los elementos
+<div></div>: La etiqueta HTML más utilizada por defecto para crear elementos visuales
+GIT: Herramienta de versionado de código
+    - git init: inicia un repositorio nuevo
+    - git status: ver el estado de mi proyecto
+    - git branch: ver en que rama estoy parado
+    - git checkout -b <new_branch>: crear y moverme a una nueva rama
+    - git add <file>: agregar a 'stash' un archivo
+    - git commit -m 'message': crear un commit con los archivos en 'stash'
+    - git push: subir el ultimo commit a GitHub.com
+    - git pull: obtener las últimas actualizaciones del proyecto desde GitHub.com
